@@ -1,0 +1,14 @@
+$primary-color: yellow;
+
+@import 'animate.css';
+//Helvetica Neue
+//  src: url('./assets/fonts/helvetica-neue.ttf') format('ttf');
+@font-face{
+  font-family: 'Ariel';
+}
+
+input, 
+textarea{
+  font-family: 'Ariel';
+}
+
