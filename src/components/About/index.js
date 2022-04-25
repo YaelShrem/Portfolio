@@ -46,19 +46,19 @@ const About = () => {
               <Icon name="jsLogo"/>
             </div>
             <div className="face2">
-              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+                <Icon name="htmlLogo"/>
             </div>
             <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+                <Icon name="cssLogo"/>
             </div>
             <div className="face4">
-              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+                <Icon name="reactLogo"/>
             </div>
             <div className="face5">
-              <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+                <Icon name="jsLogo"/>
             </div>
             <div className="face6">
-              <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
+                <Icon name="gitLogo"/>
             </div>
           </div>
         </div>
